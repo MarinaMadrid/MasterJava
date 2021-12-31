@@ -18,7 +18,7 @@ public class MJ05EstanqueGasolina {
 
         //Procedimiento
         System.out.println("Ingrese los litros de gasolina actuales:");
-        int cantidadActualGasolina = scanner.nextInt();
+        double cantidadActualGasolina = scanner.nextDouble();
 
         if (cantidadActualGasolina == cantidadMaximaEstanque) {
             System.out.println(estanqueLleno);
