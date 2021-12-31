@@ -1,7 +1,6 @@
 package com.company;
 
-public class ProgramaManejoDeNombres {
-
+public class MJ03ProgramaManejoDeNombres {
     public static void main(String[] args) {
 
         String[] Familiares = args;
@@ -19,5 +18,3 @@ public class ProgramaManejoDeNombres {
         }
     }
 }
-
-
